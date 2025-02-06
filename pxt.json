@@ -6,12 +6,12 @@
     },
     "files": [
         "main.blocks",
+        "main.ts",
         "assets.json",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "main.ts"
+        "main.py"
     ],
-    "testFiles": [],
     "targetVersions": {
         "target": "1.12.58",
         "targetId": "arcade"
