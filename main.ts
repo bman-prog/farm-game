@@ -1,4 +1,4 @@
-let mySprite = sprites.create(img`
+let hero = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
