@@ -15,4 +15,4 @@
 . . . . 2 2 . . . . . . . 2 . . 
 . . . 2 2 . . . . . . . . 2 2 . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"v(pxQ`F|Sx1kx:=JEpB1"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="EEF(#/=7QXi_o.!9e7bR"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"v(pxQ`F|Sx1kx:=JEpB1"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="EEF(#/=7QXi_o.!9e7bR"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="set_current_tilemap" id="!.!KuJ!pv,f07LBD_`JA"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="cPo5po!Wm?0o_S#O0V8_"><field name="tilemap">tilemap`level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level2"}}</data></shadow></value></block></next></block></statement></block></xml>
